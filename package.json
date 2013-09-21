@@ -1,0 +1,19 @@
+{
+  "name": "TweetRock",
+  "version": "0.0.1",
+  "description": "TweetRock",
+  "authors": [
+    "Katat Choi <kata.choi@gmail.com>"
+  ],
+  "devDependencies" :
+  {
+    "express" : "*",
+    "sequelize" : "*",
+    "sqlite3" : "*",
+    "feedparser" : "*",
+    "mocha" : "*",
+    "should" : "*",
+    "grunt-contrib-watch" : "*",
+    "grunt-simple-mocha" : "*"
+  }
+}
